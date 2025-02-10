@@ -15,28 +15,28 @@ class CategorySeeder extends Seeder
         Category::create(
             [
             [
-            "categoryName"=>; "Élelmiszer",
-            "categoryId"=>; 1,
+            "categoryName"=> "Élelmiszer",
+            "categoryId"=> 1,
             ],
             [
-            "categoryName"=>; "Zöldség-Gyümölcs",
-            "categoryId"=>; 2,
+            "categoryName"=> "Zöldség-Gyümölcs",
+            "categoryId"=> 2,
             ],
             [
-            "categoryName"=>; "Pékáru",
-            "categoryId"=>; 3,
+            "categoryName"=> "Pékáru",
+            "categoryId"=> 3,
             ],
             [
-            "categoryName"=>; "Ital",
-            "categoryId"=>; 4,
+            "categoryName"=> "Ital",
+            "categoryId"=> 4,
             ],
             [
-            "categoryName"=>; "Állateledel",
-            "categoryId"=>; 5,
+            "categoryName"=> "Állateledel",
+            "categoryId"=> 5,
             ],
             [
-            "categoryName"=>; "Háztartási cikkek",
-            "categoryId"=>; 6,
+            "categoryName"=> "Háztartási cikkek",
+            "categoryId"=> 6,
             ],
         ]);
     }
